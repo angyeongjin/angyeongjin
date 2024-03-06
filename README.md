@@ -1,7 +1,7 @@
 # <p align="center"> 👩‍💼 About Me </p>
 
 <p align="center">
-<a href="https://www.notion.so/s-Notion-40536c7e3ce041cc966744768af11fb0" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <a href="https://github.com/angyeongjin" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="mailto:akj0426@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.notion.so/s-Notion-40536c7e3ce041cc966744768af11fb0" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <a href="https://github.com/angyeongjin" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="mailto:akj0426@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://leetcode.com/glassesjin" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>
